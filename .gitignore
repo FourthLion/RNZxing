@@ -50,3 +50,6 @@ coverage/
 
 #Cocoapods 
 ios/Pods
+
+#Don't want to add npmrc file for a public repo
+.npmrc
