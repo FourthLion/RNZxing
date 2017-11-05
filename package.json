@@ -1,5 +1,5 @@
 {
-  "name": "@walkin-frontend/Zxing",
-  "version": "0.0.3",
+  "name": "@walkin-frontend/walkin-zxing",
+  "version": "0.0.4",
   "keywords": "react-native"
 }
